@@ -2,6 +2,7 @@ html,body{
 	height:100%;
 }
 body{
+<<<<<<< HEAD
 background: #005AA7;  /* fallback for old browsers */
 background: -webkit-linear-gradient(to bottom, #FFFDE4, #005AA7);  /* Chrome 10-25, Safari 5.1-6 */
 background: linear-gradient(to bottom, #FFFDE4, #005AA7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
@@ -16,4 +17,8 @@ background: linear-gradient(to bottom, #FFFDE4, #005AA7); /* W3C, IE 10+/ Edge, 
 .parrafo{
 	font-family:cambria;
 	font-size:150%;
+=======
+	background: rgb(2,0,36);
+background: linear-gradient(18deg, rgba(2,0,36,1) 0%, rgba(121,69,9,1) 53%, rgba(0,212,255,1) 100%);
+>>>>>>> efb6cc175b26f9c38a5beeef729d6dc82dd541dc
 }
